@@ -1,0 +1,24 @@
+{
+    "subjects": [
+        {
+            "id": 1,
+            "title": "Mathematics",
+            "description": "Test your math skills."
+        },
+        {
+            "id": 2,
+            "title": "Science",
+            "description": "Explore the world of science."
+        },
+        {
+            "id": 3,
+            "title": "English",
+            "description": "Improve your English language skills."
+        },
+        {
+            "id": 4,
+            "title": "Social",
+            "description": "Improve your Social skills."
+        }
+    ]
+}

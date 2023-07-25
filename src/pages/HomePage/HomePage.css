@@ -1,0 +1,26 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, #42a5f5, #1565c0);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .home-content {
+    text-align: center;
+    color: #fff;
+  }
+  
+  .home-content h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .home-content p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  

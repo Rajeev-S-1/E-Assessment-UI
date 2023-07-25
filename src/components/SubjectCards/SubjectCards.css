@@ -1,0 +1,48 @@
+.subject-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .subject-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    overflow: auto;
+  }
+  
+  .subject-card h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #0056b3;
+  }
+  
+  .subject-card p {
+    font-size: 10px;
+    margin-bottom: 20px;
+    color: darkgray;   
+  }
+  
+  .start-button {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .start-button:hover {
+    background-color: #0056b3;
+  }
+  

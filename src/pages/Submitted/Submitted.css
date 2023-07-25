@@ -1,0 +1,30 @@
+.submission-success-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .submission-success-title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .submission-success-message {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .submission-success-link {
+    color: #007bff;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  .submission-success-link:hover {
+    text-decoration: underline;
+  }
+  

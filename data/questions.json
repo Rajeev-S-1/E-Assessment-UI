@@ -1,0 +1,485 @@
+{
+    "Questions": [
+      {
+        "id": 1,
+        "subjectId": 1,
+        "questionText": "What is the value of 2 + 2?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "3"
+          },
+          {
+            "id": 2,
+            "optionText": "4"
+          },
+          {
+            "id": 3,
+            "optionText": "5"
+          },
+          {
+            "id": 4,
+            "optionText": "6"
+          }
+        ],
+        "answer": "4"
+      },
+      {
+        "id": 2,
+        "subjectId": 1,
+        "questionText": "Simplify the expression: (3 + 4) * 2 - 5",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "7"
+          },
+          {
+            "id": 2,
+            "optionText": "12"
+          },
+          {
+            "id": 3,
+            "optionText": "15"
+          },
+          {
+            "id": 4,
+            "optionText": "21"
+          }
+        ],
+        "answer": "12"
+      },
+      {
+        "id": 3,
+        "subjectId": 1,
+        "questionText": "What is the square root of 64?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "4"
+          },
+          {
+            "id": 2,
+            "optionText": "6"
+          },
+          {
+            "id": 3,
+            "optionText": "8"
+          },
+          {
+            "id": 4,
+            "optionText": "10"
+          }
+        ],
+        "answer": "8"
+      },
+      {
+        "id": 4,
+        "subjectId": 1,
+        "questionText": "What is the value of 5 squared?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "10"
+          },
+          {
+            "id": 2,
+            "optionText": "15"
+          },
+          {
+            "id": 3,
+            "optionText": "20"
+          },
+          {
+            "id": 4,
+            "optionText": "25"
+          }
+        ],
+        "answer": "25"
+      },
+      {
+        "id": 5,
+        "subjectId": 1,
+        "questionText": "If x = 3 and y = 2, what is the value of 2x - y?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "1"
+          },
+          {
+            "id": 2,
+            "optionText": "2"
+          },
+          {
+            "id": 3,
+            "optionText": "3"
+          },
+          {
+            "id": 4,
+            "optionText": "4"
+          }
+        ],
+        "answer": "4"
+      },
+      {
+        "id": 6,
+        "subjectId": 2,
+        "questionText": "What is the smallest unit of matter?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "Atom"
+          },
+          {
+            "id": 2,
+            "optionText": "Molecule"
+          },
+          {
+            "id": 3,
+            "optionText": "Cell"
+          },
+          {
+            "id": 4,
+            "optionText": "Element"
+          }
+        ],
+        "answer": "Atom"
+      },
+      {
+        "id": 7,
+        "subjectId": 2,
+        "questionText": "Which of the following is a renewable energy source?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "Coal"
+          },
+          {
+            "id": 2,
+            "optionText": "Natural Gas"
+          },
+          {
+            "id": 3,
+            "optionText": "Solar Power"
+          },
+          {
+            "id": 4,
+            "optionText": "Nuclear Energy"
+          }
+        ],
+        "answer": "Solar Power"
+      },
+      {
+        "id": 8,
+        "subjectId": 2,
+        "questionText": "What is the process by which plants make their own food?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "Respiration"
+          },
+          {
+            "id": 2,
+            "optionText": "Photosynthesis"
+          },
+          {
+            "id": 3,
+            "optionText": "Fermentation"
+          },
+          {
+            "id": 4,
+            "optionText": "Transpiration"
+          }
+        ],
+        "answer": "Photosynthesis"
+      },
+      {
+        "id": 9,
+        "subjectId": 2,
+        "questionText": "Which planet is known as the Red Planet?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "Mars"
+          },
+          {
+            "id": 2,
+            "optionText": "Venus"
+          },
+          {
+            "id": 3,
+            "optionText": "Jupiter"
+          },
+          {
+            "id": 4,
+            "optionText": "Mercury"
+          }
+        ],
+        "answer": "Mars"
+      },
+      {
+        "id": 10,
+        "subjectId": 2,
+        "questionText": "What is the chemical symbol for hydrogen?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "H"
+          },
+          {
+            "id": 2,
+            "optionText": "O"
+          },
+          {
+            "id": 3,
+            "optionText": "C"
+          },
+          {
+            "id": 4,
+            "optionText": "N"
+          }
+        ],
+        "answer": "H"
+      },
+      {
+        "id": 11,
+        "subjectId": 3,
+        "questionText": "Which word is an antonym for 'beautiful'?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "Ugly"
+          },
+          {
+            "id": 2,
+            "optionText": "Gorgeous"
+          },
+          {
+            "id": 3,
+            "optionText": "Stunning"
+          },
+          {
+            "id": 4,
+            "optionText": "Lovely"
+          }
+        ],
+        "answer": "Ugly"
+      },
+      {
+        "id": 12,
+        "subjectId": 3,
+        "questionText": "What is the plural form of 'child'?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "Children"
+          },
+          {
+            "id": 2,
+            "optionText": "Childs"
+          },
+          {
+            "id": 3,
+            "optionText": "Childen"
+          },
+          {
+            "id": 4,
+            "optionText": "Childies"
+          }
+        ],
+        "answer": "Children"
+      },
+      {
+        "id": 13,
+        "subjectId": 3,
+        "questionText": "Which of the following is a synonym for 'happy'?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "Sad"
+          },
+          {
+            "id": 2,
+            "optionText": "Joyful"
+          },
+          {
+            "id": 3,
+            "optionText": "Angry"
+          },
+          {
+            "id": 4,
+            "optionText": "Annoyed"
+          }
+        ],
+        "answer": "Joyful"
+      },
+      {
+        "id": 14,
+        "subjectId": 3,
+        "questionText": "Which word is a verb?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "Dog"
+          },
+          {
+            "id": 2,
+            "optionText": "Run"
+          },
+          {
+            "id": 3,
+            "optionText": "Blue"
+          },
+          {
+            "id": 4,
+            "optionText": "Table"
+          }
+        ],
+        "answer": "Run"
+      },
+      {
+        "id": 15,
+        "subjectId": 3,
+        "questionText": "What is the past tense of the verb 'eat'?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "Eated"
+          },
+          {
+            "id": 2,
+            "optionText": "Ate"
+          },
+          {
+            "id": 3,
+            "optionText": "Eaten"
+          },
+          {
+            "id": 4,
+            "optionText": "Eating"
+          }
+        ],
+        "answer": "Ate"
+      },
+      {
+        "id": 16,
+        "subjectId": 4,
+        "questionText": "Who is the first President of the United States?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "George Washington"
+          },
+          {
+            "id": 2,
+            "optionText": "Thomas Jefferson"
+          },
+          {
+            "id": 3,
+            "optionText": "Abraham Lincoln"
+          },
+          {
+            "id": 4,
+            "optionText": "John Adams"
+          }
+        ],
+        "answer": "George Washington"
+      },
+      {
+        "id": 17,
+        "subjectId": 4,
+        "questionText": "What is the capital of France?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "Paris"
+          },
+          {
+            "id": 2,
+            "optionText": "London"
+          },
+          {
+            "id": 3,
+            "optionText": "Rome"
+          },
+          {
+            "id": 4,
+            "optionText": "Berlin"
+          }
+        ],
+        "answer": "Paris"
+      },
+      {
+        "id": 18,
+        "subjectId": 4,
+        "questionText": "What is the official language of Brazil?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "English"
+          },
+          {
+            "id": 2,
+            "optionText": "Spanish"
+          },
+          {
+            "id": 3,
+            "optionText": "Portuguese"
+          },
+          {
+            "id": 4,
+            "optionText": "Italian"
+          }
+        ],
+        "answer": "Portuguese"
+      },
+      {
+        "id": 19,
+        "subjectId": 4,
+        "questionText": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "China"
+          },
+          {
+            "id": 2,
+            "optionText": "Japan"
+          },
+          {
+            "id": 3,
+            "optionText": "India"
+          },
+          {
+            "id": 4,
+            "optionText": "South Korea"
+          }
+        ],
+        "answer": "Japan"
+      },
+      {
+        "id": 20,
+        "subjectId": 4,
+        "questionText": "What is the currency of Canada?",
+        "options": [
+          {
+            "id": 1,
+            "optionText": "Dollar"
+          },
+          {
+            "id": 2,
+            "optionText": "Pound"
+          },
+          {
+            "id": 3,
+            "optionText": "Euro"
+          },
+          {
+            "id": 4,
+            "optionText": "Yen"
+          }
+        ],
+        "answer": "Dollar"
+      }
+    ]
+  }
+  
